@@ -39,6 +39,6 @@ public class Account {
 	}
 
 	public void printInfo(){
-		System.out.println("账号" + id + "  姓名"+ name + "   余额" + balance);
+		System.out.println("姓名" + id + "  姓名"+ name + "   余额" + balance);
 	}
 }
